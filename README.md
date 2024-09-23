@@ -14,7 +14,6 @@ Aqui está a estrutura de diretórios do projeto:
 ├── App.js
 ├── App.css
 ├── components/
-│   ├── Assets/
 │   ├── Button/
 │   ├── Footer/
 │   ├── FormInput/
