@@ -1,0 +1,46 @@
+.container {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+.contato{
+  width: 100%;
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.contato h2{
+  margin-bottom: 15px;
+}
+
+button{
+  padding: 10px;
+  font-family: "Playpen Sans", cursive; 
+  background-color: #da7fe4;
+  color: aliceblue;
+  outline: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: .4s all;
+  border: 1px solid darkmagenta;
+}
+
+.button:hover{
+   transform: scale(1.1);
+}
+
+.form, input-nome{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed darkmagenta;
+  border-radius: 10px;
+  padding: 2%;
+  box-shadow:  10px 5px 5px #da7fe4;
+}
+

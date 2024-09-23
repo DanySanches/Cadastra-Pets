@@ -1,0 +1,13 @@
+.header {
+    background-image: linear-gradient(to bottom right, #ea80ee,#792a9c);
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header h1{ 
+    color: rgb(232, 235, 235);
+    font-size: 1.2rem;
+    margin-left: .5rem;
+}
+
